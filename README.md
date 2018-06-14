@@ -1,8 +1,6 @@
-## Minal Aidin Wal Faizin atau Taqabbalallahu Minna Wa Minkum 1439.H
+## Selamat Hari Raya Idul Fitri 2018/1439 H  Minaal Aidzin Wal Fa’izin
 
-
-
-*_Assalamualaikum Warahmatullah Wb,_*
+# *_Assalamualaikum Warahmatullah Wb,_*
 
 *Dengan Kerendahan Hati Kami Mengucapkan :*
 *Selamat Hari Raya Idul Fitri 1439H* , 
@@ -15,4 +13,5 @@
 *_Semoga kita semua mendapat ampunan Allah SWT, diterima segala amal ibadah ramadhan-nya dan termasuk dalam golongan orang-orang betaqwa, amin...._*
 
 *_Waalaikumsalam,_*
-*Ari Kiswanto and Nur Fadilah 
+
+#### Ari Kiswanto and Nur Fadilah 
