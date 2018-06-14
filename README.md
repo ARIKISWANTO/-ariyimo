@@ -13,5 +13,6 @@
 *_Semoga kita semua mendapat ampunan Allah SWT, diterima segala amal ibadah ramadhan-nya dan termasuk dalam golongan orang-orang betaqwa, amin...._*
 
 *_Waalaikumsalam,_*
-
-#### Ari Kiswanto and Nur Fadilah 
+ 
+ 
+#### Ari Kiswanto dan Nur Fadilah
