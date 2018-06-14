@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Minal Aidin Wal Faizin atau Taqabbalallahu Minna Wa Minkum 1439.H
 
-You can use the [editor on GitHub](https://github.com/ARIKISWANTO/ariyimoyi/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+*_Assalamualaikum Warahmatullah Wb,_*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Dengan Kerendahan Hati Kami Mengucapkan :*
+*Selamat Hari Raya Idul Fitri 1439H* , 
 
-```markdown
-Syntax highlighted code block
+‎*تَقَبَّلَ اللّهُ مِنَّ وَ مِنْكُمْ صِيَمَنَا وَ صِيَمَكُمْ كُلُّ عَامٍ وَ أَنْتُمْ بِخَيْرٍ*
 
-# Header 1
-## Header 2
-### Header 3
+*_Taqabbalallahu Minna Waminkum, Shiyamana Wa Shiyamakum Kullu 'Amin Wa Antum Bikhoir_*
 
-- Bulleted
-- List
+*Mohon maaf lahir dan batin.* 
+*_Semoga kita semua mendapat ampunan Allah SWT, diterima segala amal ibadah ramadhan-nya dan termasuk dalam golongan orang-orang betaqwa, amin...._*
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ARIKISWANTO/ariyimoyi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*_Waalaikumsalam,_*
+*Ari Kiswanto and Nur Fadilah 
